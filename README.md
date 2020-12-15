@@ -9,7 +9,7 @@ I make elegantly professional **🌐 Softwere Engineer** for a living and also *
 
 
 * 🧐   Interested in full stack. Recent focus on backend.
-* 💼   Upcoming Back End Engineer at MNC.
+* 💼   Full Stack Engineer at Startup.
 * 🎓   Bachelor of Engineering in Computer Science and Engineering, GPA 7.8/10.0.
 * 🌱   Currently learning Math & AI.
 * 📚   Reading more about Python, Coding and how the computer works.
@@ -26,10 +26,10 @@ I make elegantly professional **🌐 Softwere Engineer** for a living and also *
   <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
-<a href= "https://github.com/Dhruv-Aga/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com/in/dhruv--agarwal/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://twitter.com/wishfuIIThinker"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-<a href= "https://dhruv-aga.github.io/"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+<a href= "https://github.com/Dhruv-Aga/"><img src="https://img.icons8.com/clouds/100/000000/pen.png"/></a>
+<a href= "https://www.linkedin.com/in/dhruv--agarwal/"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+<a href= "https://twitter.com/wishfuIIThinker"><img src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
+<a href= "https://dhruv-aga.github.io/"><img src="https://img.icons8.com/clouds/100/000000/geography.png"/></a>
 </p>
 
 <p  align="center">
