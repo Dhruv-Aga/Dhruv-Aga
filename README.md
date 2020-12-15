@@ -3,7 +3,7 @@
 
 ![](https://dhruv-aga.github.io/img/header.png)
 
-I make elegantly professional **🌐 Softwere Engineer** for a living and also **working on some of my personal project along that finding path in ML and AI.**. 😎
+I make elegantly professional **🌐 Software Engineer** for a living and also **working on some of my personal project along that finding path in ML and AI.**. 😎
 
 >I'm a person that enjoys the **🛣 journey** toward a goal as much as achieving the **goal⛳** itself.
 
